@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/retiroFragment"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="Retiros" />
+    <item
+        android:id="@+id/movimientosFragment"
+        android:icon="@drawable/ic_baseline_article"
+        android:title="Movimientos" />
+</menu>
